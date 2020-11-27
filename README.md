@@ -1,4 +1,4 @@
-# stock-analysis
+# Stock Analysis
 Analysis of Stock Using VBA
 ## Overview of Project
 The purpose of this analysis is to show how refactored script can improve the speed and efficiency of running loops. Refactored code can aid in using less memory, taking fewer steps, and improving the logic behind the code. This can also make it easier to read for the next programmer or yourself.
