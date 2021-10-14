@@ -20,5 +20,5 @@ Code that has been written can take some time to refactor. This can be time cons
 2. It is good practice to refactor the script making it easier to read. 
 3. Future proof in case more stocks are added in the future requiring more time to compute.
 #### Cons
-1. The difference in speed is not noticed because it takes less than 1 second to complete either macros. 
+1. The difference in speed is not noticed because it takes less than one second to complete either macros. 
 2. Relatively time consuming for the performance gain.
